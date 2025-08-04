@@ -56,5 +56,3 @@
 // account1.addBalance(500, 'bonus')
 
 // account1.accountDetails()
-
-

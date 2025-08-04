@@ -67,11 +67,16 @@
 ------------------------------practice------------------------------
 */
 
-import './practice/1st'
+// import './practice/1st'
+import './practice/2nd'
+import './practice/3rd_interface'
 
 /*
 ----------------------------startegy design patter-----------------
 */
 
-import './design_patterns/1st_strategy'
-import './design_patterns/2nd_builder'
+import './design_patterns/creational/1st_builder'
+import './design_patterns/creational/2nd.fractory'
+import './design_patterns/creational/3rd_prototype'
+
+import './design_patterns/structural/1st_strategy'
