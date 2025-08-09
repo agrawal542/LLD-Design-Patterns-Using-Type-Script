@@ -70,7 +70,7 @@
 // import './practice/1st'
 import './practice/2nd'
 import './practice/3rd_interface'
-
+import './practice/4rth_payment'
 /*
 ----------------------------startegy design patter-----------------
 */
@@ -80,3 +80,12 @@ import './design_patterns/creational/2nd.fractory'
 import './design_patterns/creational/3rd_prototype'
 
 import './design_patterns/structural/1st_strategy'
+
+
+
+/*
+------------------------------Payment------------------------------
+*/
+
+// import './practice/1st'
+import './paymentArchiecture/index'
